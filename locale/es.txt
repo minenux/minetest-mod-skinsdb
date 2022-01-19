@@ -1,0 +1,16 @@
+# Translation by PICCORO
+
+Raw texture = Textura raw
+Name = Nombre
+Author = Autor
+Change = Cambio
+Page = Pagina
+License = Licencia
+Description = Descripcion
+Show, list or set player's skin = Muestra la lista o setea el jugador
+Player not found = Jugador no encontrado
+unknown command = comando desconocido
+see /help skinsdb for supported parameters = Lese /help para parametros soportados
+skin set to = Skin para asignar
+invalid skin = invalido
+unknown parameter = parametro desconocido

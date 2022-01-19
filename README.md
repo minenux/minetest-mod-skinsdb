@@ -36,6 +36,23 @@ You might want to run `minetest` in a Terminal/Console window to check the log o
     * Author
     * Skin license
 
+### Managed skins
+
+The skin files could be placed according the following file naming convention.
+
+Public skin available for all users:
+	character_[number-or-name].png
+
+One or multiple private skins for player "nick":
+	player_[nick].png or
+	player_[nick]_[number-or-name].png
+
+Preview files for public and private skins:
+	character_*_preview.png or
+	player_*_*_preview.png
+
+Check the [textures](textures) directory for.
+
 
 ## License:
 - GPLv3
